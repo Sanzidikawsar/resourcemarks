@@ -15,7 +15,10 @@ This repository is created for personal use. But if need, anyone can see, follow
     2. And basic theories by web search
 ### Theory
    * [Coursera ML course](https://www.coursera.org/learn/machine-learning/home/welcome) (by Andrew Ng)
-    
+   * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+   * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+   * [Neural networks and back-propagation explained in a simple way](https://medium.com/datathings/neural-networks-and-backpropagation-explained-in-a-simple-way-f540a3611f5e)
+
 ## Deep Learning
 ### Mathmatics
   * All of Machine Learning maths 
