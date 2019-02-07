@@ -45,8 +45,8 @@ This repository is created for personal use. But if need, anyone can see, follow
   * [Simple Blockchain in Python](http://www.pyscoop.com/building-a-simple-blockchain-in-python/)
   
 ## Research
-  * [What is Research Why?](https://explorable.com/what-is-research)  
-  * [Bangla Hand Book on Research](https://research.sanzidscloud.com/)
+  * [What is Research & Why?](https://explorable.com/what-is-research)  
+  * [Bangla HandBook on Research](https://research.sanzidscloud.com/)
   * [How to Select a Research Topic](https://www.umflint.edu/library/how-select-research-topic)  
   
 ## Career
