@@ -43,6 +43,12 @@ This repository is created for personal use. But if need, anyone can see, follow
   * [Build the Tiniest Blockchain](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b)
   * [Learn Blockchains by Building One](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
   * [Simple Blockchain in Python](http://www.pyscoop.com/building-a-simple-blockchain-in-python/)
+  
+## Research
+  * [What is Research Why?](https://explorable.com/what-is-research)  
+  * [Bangla Hand Book on Research](https://research.sanzidscloud.com/)
+  * [How to Select a Research Topic](https://www.umflint.edu/library/how-select-research-topic)  
+  
 ## Career
   * [AngleList](https://angel.co/)
 ## GRE
