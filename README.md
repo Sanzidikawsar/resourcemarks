@@ -48,6 +48,11 @@ This repository is created for personal use. But if need, anyone can see, follow
   * [What is Research & Why?](https://explorable.com/what-is-research)  
   * [Bangla HandBook on Research](https://research.sanzidscloud.com/)
   * [How to Select a Research Topic](https://www.umflint.edu/library/how-select-research-topic)  
+### Some Project Ideas
+  * [https://nlp.stanford.edu/courses/cs224n/](https://nlp.stanford.edu/courses/cs224n/)  
+  * [http://cs231n.stanford.edu/project.html](http://cs231n.stanford.edu/project.html)
+  * [http://cs229.stanford.edu/projects.html](http://cs229.stanford.edu/projects.html)
+  * [http://ai.stanford.edu/courses/](http://ai.stanford.edu/courses/)
   
 ## Career
   * [AngleList](https://angel.co/)
