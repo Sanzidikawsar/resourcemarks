@@ -48,11 +48,19 @@ This repository is created for personal use. But if need, anyone can see, follow
   * [What is Research & Why?](https://explorable.com/what-is-research)  
   * [Bangla HandBook on Research](https://research.sanzidscloud.com/)
   * [How to Select a Research Topic](https://www.umflint.edu/library/how-select-research-topic)  
+  * [Search a Research Paper on Your Topic](https://scholar.google.com)
+  * [Download a Research Paper for Free with Link Address](https://sci-hub.tw)
+  
 ### Some Project Ideas
   * [https://nlp.stanford.edu/courses/cs224n/](https://nlp.stanford.edu/courses/cs224n/)  
   * [http://cs231n.stanford.edu/project.html](http://cs231n.stanford.edu/project.html)
   * [http://cs229.stanford.edu/projects.html](http://cs229.stanford.edu/projects.html)
   * [http://ai.stanford.edu/courses/](http://ai.stanford.edu/courses/)
+  
+## Learning Python
+  * [সহজ ভাষায় পাইথন ৩](https://python.maateen.me)  
+  * [Python 3 Official Doc](https://docs.python.org/3/tutorial/index.html)
+  * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
   
 ## Career
   * [AngleList](https://angel.co/)
