@@ -56,6 +56,13 @@ This repository is created for personal use. But if need, anyone can see, follow
   * [http://cs231n.stanford.edu/project.html](http://cs231n.stanford.edu/project.html)
   * [http://cs229.stanford.edu/projects.html](http://cs229.stanford.edu/projects.html)
   * [http://ai.stanford.edu/courses/](http://ai.stanford.edu/courses/)
+  * [https://www.media.mit.edu/search/?filter=project](https://www.media.mit.edu/search/?filter=project)
+  * [http://news.mit.edu/topic/artificial-intelligence2](http://news.mit.edu/topic/artificial-intelligence2)
+  * [https://www.research.ox.ac.uk/Area/ai](https://www.research.ox.ac.uk/Area/ai)
+  * [https://www.ubuntupit.com/top-20-best-machine-learning-projects-for-beginner-to-professional/](https://www.ubuntupit.com/top-20-best-machine-learning-projects-for-beginner-to-professional/)
+  * [https://nevonprojects.com/artificial-intelligence-projects/](https://nevonprojects.com/artificial-intelligence-projects/)
+  * [https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7](https://medium.mybridge.co/30-amazing-machine-learning-projects-for-the-past-year-v-2018-b853b8621ac7)
+  * [https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects](https://en.wikipedia.org/wiki/List_of_artificial_intelligence_projects)
   
 ## Learning Python
   * [সহজ ভাষায় পাইথন ৩](https://python.maateen.me)  
@@ -68,3 +75,4 @@ This repository is created for personal use. But if need, anyone can see, follow
   * [Bangla GRE blog](http://hsa.grecbd.com/)
 ## QA
   * [What is the best Python data structures & algorithms book?](https://www.quora.com/What-are-considered-some-of-the-best-books-on-Python-data-structures-algorithms)
+  * [How to learn Machine Learning: the easiest approach](https://blog.sanzidscloud.com/2019/09/28/researchnml/)
