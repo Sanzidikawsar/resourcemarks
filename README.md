@@ -68,6 +68,15 @@ This repository is created for personal use. But if need, anyone can see, follow
   * [সহজ ভাষায় পাইথন ৩](https://python.maateen.me)  
   * [Python 3 Official Doc](https://docs.python.org/3/tutorial/index.html)
   * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
+
+## Python Notebooks for beginners
+  * [Basic python](https://colab.research.google.com/drive/1CQEz384rk2ibjloljPjuLgRDjpr2Jkm6?authuser=2)  
+  * [Introduction to numpy](https://drive.google.com/file/d/1lKj-A5arHLxbMHZsvIH0Jl01_3r9P7LZ/view?usp=sharing)
+  * [Introduction to pandas](https://colab.research.google.com/drive/1nJ1E_Y598ko8W7TeXZIZKggBBSOxHJQx?authuser=2)
+  * [Introduction to pandas II](https://colab.research.google.com/drive/1tkuQYnkJqk36S_9uQtbRqOyO9eAtdVb5?authuser=2)
+  * [Introduction to matplotlib](https://colab.research.google.com/drive/10AeujtZJRg9gUAmPX0WBJlefFvQrZgkf?authuser=2)
+  * [Numpy, pandas, matplotlib](https://colab.research.google.com/drive/1hyxSXuQ-A5S3hwbeBhmNArRyrHbikEPf?authuser=2)
+
   
 ## Career
   * [AngleList](https://angel.co/)
